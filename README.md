@@ -10,9 +10,8 @@ A google chrome extension created using Google Safe Browsing API &amp; TF-IDF al
 
 ## Languages used
 
-1. HTML
-2. JavaScript
-3. JSON
+1. JavaScript
+2. JSON
 
 ## Libs used
 
