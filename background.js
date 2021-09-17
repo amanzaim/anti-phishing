@@ -25,7 +25,7 @@ function buttonClicked() {
 // function to POST to the Safe Browsing API and get the response
 async function callPost(url){
 
-  const URL ='https://safebrowsing.googleapis.com/v4/threatMatches:find?key=AIzaSyDEJ9mLCfoTYUbFKdy61S3RVwFWaaBjgr0'
+  const URL ='https://safebrowsing.googleapis.com/v4/threatMatches:find?key=ADDYOURKEYHERE'
   const data={
     "client": {
       "clientId": "aman",
